@@ -66,7 +66,7 @@ var ZhCN = map[string]*intl.Translation{
 	"Sell":                           {T: "卖"},
 	"lot_size":                       {T: "手数"},
 	"Rate Step":                      {T: "当前汇率"},
-	"Max":                            {T: "最大"},
+	"Max":                            {T: "最多"},
 	"lot":                            {T: "很多"},
 	"min trade is about":             {T: "最小交易额"},
 	"immediate_explanation":          {T: "如果订单在下一个匹配周期内不能完全匹配，不匹配的数量将不会被再次匹配。需要重新设置订单。"},
