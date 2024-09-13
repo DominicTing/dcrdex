@@ -139,7 +139,7 @@ var ZhCN = map[string]*intl.Translation{
 	"Connect":                   {T: "连接"},
 	"Send":                      {T: "发送"},
 	"Deposit":                   {T: "存款"},
-	"Lock":                      {T: "锁"},
+	"Lock":                      {T: "锁定"},
 	"New Deposit Address":       {T: "新存款地址"},
 	"Address":                   {T: "地址"},
 	"Amount":                    {T: "金额"},
