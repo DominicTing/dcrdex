@@ -96,7 +96,7 @@ var ZhCN = map[string]*intl.Translation{
 	"for a total of":                 {T: "共计"},
 	"verify_market":                  {T: "这是一个市价单，将匹配交易列表中的最佳限价单。根据当前市场的缺口率，您可能会收到大约"},
 	"auth_order_app_pw":              {T: "输入您的应用程序密码授权此订单。"},
-	"lots":                           {T: "手数"},
+	"lots":                           {T: "批次"},
 	"order_disclaimer": {T: `<span class="red">请注意</span>：交易需要时间结算，您不能关闭 DEX 客户端软件，
 		 以及<span data-quote-ticker></span> 或 <span data-base-ticker></span> 钱包软件，直到
 		结算完成。结算可能在几分钟内完成，也可能需要几个小时完成。`},
