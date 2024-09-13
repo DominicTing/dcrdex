@@ -120,7 +120,7 @@ var ZhCN = map[string]*intl.Translation{
 	"Refund":                    {T: "退款"},
 	"Funding Coins":             {T: "资金硬币"},
 	"Exchanges":                 {T: "交易"},
-	"apply":                     {T: "申请"},
+	"apply":                     {T: "应用"},
 	"Assets":                    {T: "资产"},
 	"Trade":                     {T: "交易"},
 	"Set App Password":          {T: "设置应用程序密码"},
