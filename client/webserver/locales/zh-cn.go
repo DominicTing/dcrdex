@@ -107,7 +107,7 @@ var ZhCN = map[string]*intl.Translation{
 	"Offering":                  {T: "卖出"},
 	"Asking":                    {T: "买入"},
 	"Fees":                      {T: "费用"},
-	"order_fees_tooltip":        {T: "链上交易费用，通常由矿工收取。Decred DEX 不收取任何交易费用。"},
+	"order_fees_tooltip":        {T: "此为链上交易费，由矿工收取。Decred DEX 不收取任何交易费用。"},
 	"Matches":                   {T: "匹配"},
 	"Match ID":                  {T: "匹配 ID"},
 	"Time":                      {T: "时间"},
